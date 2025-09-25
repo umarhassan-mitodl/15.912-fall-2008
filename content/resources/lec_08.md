@@ -4,6 +4,8 @@ description: 'Lecture presentation on value capture: the case of Abgenix and the
 file: /courses/15-912-technology-strategy-fall-2008/d616202b6dd69ba18c58ad1625605c58_lec_08.pdf
 file_size: 176870
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

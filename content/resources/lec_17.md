@@ -5,6 +5,8 @@ description: Lecture presentation on Medtronic Corporation's cardiac pacemaker b
 file: /courses/15-912-technology-strategy-fall-2008/aae631c01de7d047918d0cf82007c601_lec_17.pdf
 file_size: 237869
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

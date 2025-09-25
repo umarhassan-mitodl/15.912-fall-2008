@@ -4,6 +4,8 @@ description: Lecture presentation on industry life cycles and market evolution.
 file: /courses/15-912-technology-strategy-fall-2008/b52a9a549e220ca33d24df4decccceec_lec_03.pdf
 file_size: 150344
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

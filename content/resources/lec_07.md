@@ -5,6 +5,8 @@ description: Lecture presentation on creating value with effective organization,
 file: /courses/15-912-technology-strategy-fall-2008/547b8860ef7896d15ffca525c211b5d3_lec_07.pdf
 file_size: 512932
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

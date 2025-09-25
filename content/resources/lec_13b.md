@@ -5,6 +5,8 @@ description: Lecture presentation providing a mid-course summary of strategy fun
 file: /courses/15-912-technology-strategy-fall-2008/3e1556353b1dcd10bdf296b66f1dfb49_lec_13b.pdf
 file_size: 239964
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
