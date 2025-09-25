@@ -5,6 +5,8 @@ description: Lecture presentation on creating, capturing, and delivering value w
 file: /courses/15-912-technology-strategy-fall-2008/44ca00f7b7ec00ede2bad465fdb36e69_lec_01.pdf
 file_size: 1009599
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

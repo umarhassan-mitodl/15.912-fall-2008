@@ -5,6 +5,8 @@ description: Lecture presentation on S curves and effective strategies to tackle
 file: /courses/15-912-technology-strategy-fall-2008/0bfd789f85bc9fb6d209a3c76cc43fdc_lec_02.pdf
 file_size: 378655
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

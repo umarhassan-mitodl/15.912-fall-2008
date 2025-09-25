@@ -5,6 +5,8 @@ description: 'Lecture presentation on a partnership case: Intel (A): photolithog
 file: /courses/15-912-technology-strategy-fall-2008/1ae593f6a8365c11f1c0a42ee6a03f0e_lec_06.pdf
 file_size: 239762
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Lecture presentation on strategic management of platforms and ecosy
 file: /courses/15-912-technology-strategy-fall-2008/5f2353b46bba58b50cd4186ff121a888_lec_15.pdf
 file_size: 178237
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

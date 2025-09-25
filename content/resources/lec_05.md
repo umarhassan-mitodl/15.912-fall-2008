@@ -5,6 +5,8 @@ description: Lecture presentation on with an introduction to organization struct
 file: /courses/15-912-technology-strategy-fall-2008/14bf93b5fa46a5eb575511d260809ebb_lec_05.pdf
 file_size: 253710
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Lecture presentation on vertical and horizontal strategies in conve
 file: /courses/15-912-technology-strategy-fall-2008/1231ba484a072ec92d007abb79f18f37_lec_14.pdf
 file_size: 224765
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
