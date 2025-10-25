@@ -4,8 +4,6 @@ description: 'Lecture presentation on Kodak: managing through discontinuities.'
 file: /courses/15-912-technology-strategy-fall-2008/91a7a6fffe3ae4d40b6607bb9f5859e6_lec_22.pdf
 file_size: 1045567
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

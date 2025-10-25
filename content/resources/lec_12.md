@@ -4,8 +4,6 @@ description: Lecture presentation on the case of Red Hat and the Linux revolutio
 file: /courses/15-912-technology-strategy-fall-2008/532d76cacf81e3a8bbf9aa43b820bcaa_lec_12.pdf
 file_size: 153508
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

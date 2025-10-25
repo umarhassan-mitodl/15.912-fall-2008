@@ -4,8 +4,6 @@ description: Lecture presentation on industry life cycles and evolution of marke
 file: /courses/15-912-technology-strategy-fall-2008/a76b8c0f756a45ee78208c7f645f16bb_lec_04.pdf
 file_size: 384523
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

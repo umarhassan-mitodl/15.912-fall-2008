@@ -5,8 +5,6 @@ description: 'Lecture presentation on a partnership case: Alza/Ciba (2): managin
 file: /courses/15-912-technology-strategy-fall-2008/5418ddbf3edab8784bf7982b72d1cbcb_lec_21_d.pdf
 file_size: 77576
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

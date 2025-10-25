@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a list of supplementary readings used to illustrate
   key concepts in each section of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Supplementary Readings

@@ -5,8 +5,6 @@ description: 'Lecture presentation on organizational dynamics: overload, time-pa
 file: /courses/15-912-technology-strategy-fall-2008/4fe6b811c63baf0682e2ddbd062760f4_lec_19.pdf
 file_size: 3305164
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

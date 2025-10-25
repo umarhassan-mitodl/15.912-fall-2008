@@ -5,8 +5,6 @@ description: 'Lecture presentation on a case: Ember: developing the next ubiquit
 file: /courses/15-912-technology-strategy-fall-2008/e82729bc4eb5a5b6cf099239357c2822_lec_10.pdf
 file_size: 156327
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

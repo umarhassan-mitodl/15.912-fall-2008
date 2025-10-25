@@ -4,8 +4,6 @@ description: 'Lecture presentation on a partnership case: Google and AOL.'
 file: /courses/15-912-technology-strategy-fall-2008/3181e53afa79a1fe66921eb8426c00da_lec_13a.pdf
 file_size: 132315
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

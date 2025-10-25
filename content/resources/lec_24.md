@@ -5,8 +5,6 @@ description: Final lecture presentation with conclusions and reflections on tech
 file: /courses/15-912-technology-strategy-fall-2008/7a0d875dda0ae5a0deb699f3c61cb4ca_lec_24.pdf
 file_size: 1418542
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

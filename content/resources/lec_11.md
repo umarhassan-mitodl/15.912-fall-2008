@@ -5,8 +5,6 @@ description: Lecture presentation on open standards, increasing returns, and pro
 file: /courses/15-912-technology-strategy-fall-2008/322222c7367cf4211f06659bb72c689a_lec_11.pdf
 file_size: 250919
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
