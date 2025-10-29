@@ -188,7 +188,7 @@ Case: Ember: developing the next ubiquitous network standard
 
 Shapiro, Carl, and Hal Varian. "The Art of Standards Wars." _California Management Review_ 41, no. 2 (1999): 8-32.
 
-Arthur, Brian. "[Increasing Returns and the New World of Business.](https://hbr.org/1996/07/increasing-returns-and-the-new-world-of-business)" _Harvard Business Review_, July 1, 1996. 
+Arthur, Brian. "{{% resource_link "badd071c-6e7d-404c-8def-25c2c0ecaf0f" "Increasing Returns and the New World of Business." %}}" _Harvard Business Review_, July 1, 1996. 
 
 
 {{< tdclose >}}
